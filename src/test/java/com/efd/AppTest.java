@@ -6,6 +6,6 @@ import org.junit.jupiter.api.Test;
 public class AppTest {
     @Test
     public void testGreeting() {
-        assertEquals("Hello, World!", App.getGreeting());
+        assertEquals("Welcome to EFD Java with Gradle project!", App.getGreeting());
     }
 }
